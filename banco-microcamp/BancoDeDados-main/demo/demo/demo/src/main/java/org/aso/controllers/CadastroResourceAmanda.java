@@ -11,7 +11,7 @@ import java.util.List;
 @RestController
 @CrossOrigin()
 @RequestMapping("/amanda")
-public class CadastroResource {
+public class CadastroResourceAmanda {
 
 
     @Autowired
