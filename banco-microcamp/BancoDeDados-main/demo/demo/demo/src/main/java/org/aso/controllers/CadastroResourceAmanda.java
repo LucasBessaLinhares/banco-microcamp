@@ -10,7 +10,7 @@ import java.util.List;
 
 @RestController
 @CrossOrigin()
-@RequestMapping("/admin")
+@RequestMapping("/amanda")
 public class CadastroResource {
 
 
